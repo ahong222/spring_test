@@ -1,8 +1,8 @@
 {
-"timeStamp":1007,
+"timeStamp":1008,
 "data":[
 {
-"promotionId":2003,
+"promotionId":2004,
 "version":1,
 "showMark":false,
 "createLogValue":"1",
@@ -11,10 +11,10 @@
 "dialogTitle":"subtitle",
 "dialogContent":"ActivityWelcomeActivityWelcome",
 "dialogPositiveButton":"Y",
-"iconUrl":"http://t2.qlogo.cn/mbloghead/0f1d850b650e73b6a64a/180",
+"iconUrl":"http://t3.qlogo.cn/mbloghead/f4f47d7f7247aa5c7cae/50",
 "folderType":16,
 "folderName":"Media",
-"customTitle":"Promotion3",
+"customTitle":"Promotion4",
 "category":"C4",
 "categoryType":"CM_TOOL",
 "installPackage":"com.youku.phone",
@@ -24,7 +24,7 @@
 },
 {
 "promotionId":2002,
-"version":7,
+"version":8,
 "showMark":false,
 "createLogValue":"1",
 "className":"com.youku.phone.ActivityWelcome2002",
@@ -32,7 +32,7 @@
 "dialogTitle":"subtitle",
 "dialogContent":"ActivityWelcomeActivityWelcome",
 "dialogPositiveButton":"Yes",
-"iconUrl":"http://t2.qlogo.cn/mbloghead/557530aef473fa63ef32/100",
+"iconUrl":"http://t2.qlogo.cn/mbloghead/2557b2f1432e31f5d7da/50",
 "folderType":16,
 "folderName":"Media",
 "customTitle":"Promotion7",
