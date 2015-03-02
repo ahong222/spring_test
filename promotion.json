@@ -1,5 +1,5 @@
 {
-"timeStamp":1004,
+"timeStamp":1005,
 "data":[
 {
 "promotionId":2003,
@@ -24,14 +24,14 @@
 },
 {
 "promotionId":2002,
-"version":5,
+"version":6,
 "showMark":false,
 "createLogValue":"1",
 "className":"com.youku.phone.ActivityWelcome5",
 "googlePlayUrl":"https://play.google.com/store/apps/details?id=com.youku.phone",
 "dialogTitle":"subtitle",
 "dialogContent":"ActivityWelcomeActivityWelcome",
-"dialogPositiveButton":"Yes5",
+"dialogPositiveButton":"Yes6",
 "iconUrl":"http://t2.qlogo.cn/mbloghead/557530aef473fa63ef32/100",
 "folderType":16,
 "folderName":"Media",
