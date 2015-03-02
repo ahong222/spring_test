@@ -1,8 +1,8 @@
 {
-"timeStamp":1000,
+"timeStamp":1001,
 "data":[
 {
-"promotionId":2001,
+"promotionId":2003,
 "version":1,
 "showMark":false,
 "createLogValue":"1",
@@ -14,7 +14,7 @@
 "iconUrl":"http://t2.qlogo.cn/mbloghead/0f1d850b650e73b6a64a/180",
 "folderType":16,
 "folderName":"Media",
-"customTitle":"Promotion1",
+"customTitle":"Promotion3",
 "category":"C4",
 "categoryType":"CM_TOOL",
 "installPackage":"com.youku.phone",
@@ -24,14 +24,14 @@
 },
 {
 "promotionId":2002,
-"version":1,
+"version":3,
 "showMark":false,
 "createLogValue":"1",
 "className":"com.youku.phone.ActivityWelcome2",
 "googlePlayUrl":"https://play.google.com/store/apps/details?id=com.youku.phone",
 "dialogTitle":"subtitle",
 "dialogContent":"ActivityWelcomeActivityWelcome",
-"dialogPositiveButton":"Y",
+"dialogPositiveButton":"Yyy",
 "iconUrl":"http://t2.qlogo.cn/mbloghead/557530aef473fa63ef32/100",
 "folderType":16,
 "folderName":"Media",
