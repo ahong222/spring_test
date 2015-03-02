@@ -1,5 +1,5 @@
 {
-"timeStamp":1008,
+"timeStamp":1009,
 "data":[
 {
 "promotionId":2004,
@@ -24,7 +24,7 @@
 },
 {
 "promotionId":2002,
-"version":8,
+"version":9,
 "showMark":false,
 "createLogValue":"1",
 "className":"com.youku.phone.ActivityWelcome2002",
@@ -35,7 +35,7 @@
 "iconUrl":"http://t2.qlogo.cn/mbloghead/2557b2f1432e31f5d7da/50",
 "folderType":16,
 "folderName":"Media",
-"customTitle":"Promotion7",
+"customTitle":"Promotion9",
 "category":"C4",
 "categoryType":"CM_TOOL",
 "installPackage":"com.youku.phone",
